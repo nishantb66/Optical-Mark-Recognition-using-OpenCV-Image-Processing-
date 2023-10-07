@@ -1,0 +1,2 @@
+# Optical-Mark-Recognition-using-OpenCV-Image-Processing-
+This GitHub repository contains a Python project for Optical Marks Recognition (OMR) using the OpenCV library. Optical Marks Recognition is a technology that allows automated grading and analysis of scanned or photographed multiple-choice answer sheets. This project provides a complete end-to-end solution for processing and analyzing OMR sheets.
